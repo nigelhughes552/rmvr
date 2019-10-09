@@ -9,7 +9,6 @@
           dfhfdh fh fh fh dfh
         </p>
       </section>
-
       <section>
         <h1>Location</h1>
         <p>
