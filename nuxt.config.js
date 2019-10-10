@@ -12,6 +12,9 @@ export default {
     meta: [
       {
         charset: 'utf-8'
+        
+       
+      
       },
       {
         name: 'viewport',
@@ -21,7 +24,9 @@ export default {
         hid: 'description',
         name: 'description',
         content: process.env.npm_package_description || ''
-      }
+      },
+        
+      { 'http-equiv': 'expires', content: '30' }
     ],
     link: [
       {
