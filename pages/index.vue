@@ -25,6 +25,8 @@
         </p>
       </section>
 
+      <v-parallax height="400" src="engine.jpg"></v-parallax>
+
       <section>
         <h1>What we do</h1>
 
@@ -77,7 +79,6 @@
         aliquet eget. Ut aliquam purus sit amet luctus venenatis. Purus viverra
         accumsan in nisl
       </p>
-      nisi scelerisque eu ultrices.
     </v-flex>
   </v-layout>
 </template>
