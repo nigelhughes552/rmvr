@@ -29,7 +29,7 @@ export default {
         type: 'image/x-icon',
         href: '/favicon.ico'
       },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto&display=swap' }
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Cutive+Mono|Raleway&display=swap' }
 
     ]
   },
@@ -42,7 +42,7 @@ export default {
   /*
    ** Global CSS
    */
-  css: [],
+  css: ["~assets/styles.css"],
   /*
    ** Plugins to load before mounting the App
    */
